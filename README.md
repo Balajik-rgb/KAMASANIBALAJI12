@@ -38,3 +38,4 @@ Error Handling: Robust code with sensor failure detection
 Expandable Design: Support for calibration and data logging
 The system demonstrates mastery of Arduino programming, sensor integration, display control, and serial communication - perfect for internship completion certification. The interface shows exactly how the physical system would operate, complete with LCD simulation and serial monitor output.
 # OUTPUT
+<img width="1253" height="565" alt="Image" src="https://github.com/user-attachments/assets/b3efeb02-0d6e-47e2-9b6d-e5896db075be" />
