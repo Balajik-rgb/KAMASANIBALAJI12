@@ -40,3 +40,5 @@ The system demonstrates mastery of Arduino programming, sensor integration, disp
 # OUTPUT
 <img width="1253" height="565" alt="Image" src="https://github.com/user-attachments/assets/b3efeb02-0d6e-47e2-9b6d-e5896db075be" />
 <img width="1041" height="472" alt="Image" src="https://github.com/user-attachments/assets/04b2bdde-da82-4ac9-bce9-77182efc0c58" />
+<img width="998" height="575" alt="Image" src="https://github.com/user-attachments/assets/203bba8b-cc35-4f04-a337-cb59d76cb7d0" />
+
